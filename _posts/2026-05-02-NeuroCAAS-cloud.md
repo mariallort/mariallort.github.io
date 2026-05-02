@@ -3,7 +3,7 @@ layout: post
 title: "Cloud Computing in Neuroscience: How NeuroCAAS is Democratizing Brain Data Analysis"
 subtitle: "Exploring how cloud infrastructure is transforming the way we study the brain"
 tags: [cloud, neuroscience, distributed-computing, research]
-cover-img: /images/brain-cloud.jpg
+cover-img: /images/brain-cloud-2.jpg
 ---
 
 ## The Challenge of Modern Neuroscience Data
@@ -18,11 +18,11 @@ them as open-source software, yet most labs **cannot actually use them** — eit
 they lack the computational resources, or because setting up the required infrastructure
 demands expertise that most experimentalists simply don't have.
 
+{: .box-note}
 > 💡 **Did you know?** A single session of multi-electrode neural recording can generate
 > several gigabytes of raw data. Multiply that across hundreds of experiments and you
 > quickly reach terabyte-scale datasets that no laptop can handle.
 
----
 
 ## Enter NeuroCAAS
 
@@ -35,7 +35,6 @@ to run state-of-the-art data analysis tools without needing to set up or manage 
 computing infrastructure themselves. Think of it as a **"plug and play" cloud lab**:
 you upload your data, choose your analysis, and the cloud does the rest.
 
----
 
 ## Traditional Lab vs. NeuroCAAS: A Comparison
 
@@ -48,7 +47,6 @@ you upload your data, choose your analysis, and the cloud does the rest.
 | Accessibility | Expert users only | Any researcher |
 | Collaboration | Difficult across institutions | Built-in data sharing |
 
----
 
 ## How Does It Work?
 
@@ -65,12 +63,12 @@ The typical NeuroCAAS workflow looks like this:
 4. 🔄 **Analysis runs** in parallel across distributed compute nodes
 5. 📥 **Download** your results — fully reproducible by anyone
 
-> ⚠️ **Key insight from the paper:** By moving the *infrastructure* to the cloud —
-> not just the data — reproducibility improves dramatically. Every analysis runs in an
-> identical, pre-configured environment, meaning another lab can reproduce your results
-> without replicating your exact hardware setup.
+{: .box-warning}
+> ⚠️ **Key insight from the paper:** By moving the *infrastructure* to the cloud,
+> not just the data, reproducibility improves dramatically. Every analysis runs in an
+> identical, pre-configured environment, meaning that another lab can reproduce the results
+> without replicating the exact hardware setup.
 
----
 
 ## Cloud Computing Principles in Action
 
@@ -85,7 +83,6 @@ cloud principles we cover in HPDC:
 | **Parallelism** | Large datasets split and processed across multiple nodes |
 | **Cost efficiency** | Pay-per-use model — no idle hardware costs |
 
----
 
 ## Why This Matters Beyond Neuroscience
 
@@ -98,7 +95,6 @@ to cutting-edge analysis tools. A small lab at a university with a limited compu
 budget can now run the same analyses as a well-funded institution with a dedicated
 compute cluster.
 
----
 
 ## My Takeaway
 
@@ -110,7 +106,6 @@ The tools we learn in HPDC are not abstract — they are actively reshaping how
 scientists understand the human brain. That, to me, makes distributed computing
 feel a lot more exciting.
 
----
 
 ## References
 
