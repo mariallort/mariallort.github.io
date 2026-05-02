@@ -4,6 +4,7 @@ title: "NeuroCAAS and the Future of Scalable Brain Data Analysis"
 subtitle: "Exploring how cloud infrastructure is transforming the way we study the brain"
 tags: [cloud, neuroscience, distributed-computing]
 cover-img: /images/brain-cloud-2.jpg
+header-text-color: black
 ---
 
 ## The Challenge of Modern Neuroscience Data
