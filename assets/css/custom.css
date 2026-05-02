@@ -22,12 +22,6 @@ body, p, li, .post-preview, .post-body {
   color: #2c3e50;
 }
 
-/* Add a line in the title */
-.intro-title {
-  display: inline;
-  background: linear-gradient(180deg, transparent 55%, #e74c3c 55%);
-}
-
 .intro-divider {
   border-color: #e74c3c;
   border-width: 3px;
