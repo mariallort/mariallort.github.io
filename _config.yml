@@ -94,7 +94,7 @@ navbar-border-col: "#333355"
 footer-col: "#1a1a2e"
 footer-text-col: "#e0e0e0"
 footer-link-col: "#e94560"
-footer-hover-col: "#c73652"
+footer-hover-col: "#e94560"
 
 # Add site css to modify the typography and other params
 site-css:
