@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Cloud Computing in Neuroscience: How NeuroCAAS is Democratizing Brain Data Analysis"
+title: "NeuroCAAS and the Future of Scalable Brain Data Analysis"
 subtitle: "Exploring how cloud infrastructure is transforming the way we study the brain"
-tags: [cloud, neuroscience, distributed-computing, research]
+tags: [cloud, neuroscience, distributed-computing]
 cover-img: /images/brain-cloud-2.jpg
 ---
 
@@ -19,12 +19,12 @@ they lack the computational resources, or because setting up the required infras
 demands expertise that most experimentalists simply don't have.
 
 {: .box-note}
-> 💡 **Did you know?** A single session of multi-electrode neural recording can generate
-> several gigabytes of raw data. Multiply that across hundreds of experiments and you
-> quickly reach terabyte-scale datasets that no laptop can handle.
+💡 **Did you know?** A single session of multi-electrode neural recording can generate
+several gigabytes of raw data. Multiply that across hundreds of experiments and you
+quickly reach terabyte-scale datasets that no laptop can handle.
 
 
-## Enter NeuroCAAS
+## NeuroCAAS
 
 A team of researchers at Columbia University's Zuckerman Mind Brain Behavior Institute
 tackled this problem head-on. In their 2022 paper published in *Neuron*, Abe et al.
@@ -64,10 +64,10 @@ The typical NeuroCAAS workflow looks like this:
 5. 📥 **Download** your results — fully reproducible by anyone
 
 {: .box-warning}
-> ⚠️ **Key insight from the paper:** By moving the *infrastructure* to the cloud,
-> not just the data, reproducibility improves dramatically. Every analysis runs in an
-> identical, pre-configured environment, meaning that another lab can reproduce the results
-> without replicating the exact hardware setup.
+⚠️ **Key insight from the paper:** By moving the *infrastructure* to the cloud,
+not just the data, reproducibility improves dramatically. Every analysis runs in an
+identical, pre-configured environment, meaning that another lab can reproduce the results
+without replicating the exact hardware setup.
 
 
 ## Cloud Computing Principles in Action
@@ -86,9 +86,10 @@ cloud principles we cover in HPDC:
 
 ## Why This Matters Beyond Neuroscience
 
-> 🧠 **Bigger picture:** The bottleneck in neuroscience wasn't the science itself —
-> it was the infrastructure. Cloud computing removed that bottleneck. This pattern
-> repeats across biology, climate science, physics, and more.
+{: .box-note}
+🧠 **Bigger picture:** The bottleneck in neuroscience wasn't the science itself,
+it was the infrastructure. Cloud computing provides a solution to that bottleneck. 
+This pattern repeats across biology, climate science, physics, and more.
 
 The implications go beyond convenience. NeuroCAAS effectively **democratizes** access
 to cutting-edge analysis tools. A small lab at a university with a limited computing
@@ -100,11 +101,7 @@ compute cluster.
 
 Reading this paper through the lens of our High-Performance and Distributed Computing
 course, NeuroCAAS is a compelling case study in how cloud architecture solves real
-scientific problems — not just technical ones.
-
-The tools we learn in HPDC are not abstract — they are actively reshaping how
-scientists understand the human brain. That, to me, makes distributed computing
-feel a lot more exciting.
+scientific problems, not just technical ones.
 
 
 ## References
