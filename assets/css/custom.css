@@ -9,3 +9,13 @@ h1, h2, h3, .intro-title {
 body, p, li {
   font-family: 'Inter', sans-serif;
 }
+
+/* More space between posts */
+.post-preview {
+  padding: 20px 0;
+}
+
+/* Softer post title color */
+.post-preview a {
+  color: #2c3e50;
+}
