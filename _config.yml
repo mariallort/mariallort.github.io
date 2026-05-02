@@ -9,7 +9,7 @@ author: Maria Llort
 # For each link, make sure to create a corresponding markdown file in the root folder (like `aboutme.md`)
 
 navbar-links:
-  About Me: "AboutMe"
+  About Me: "aboutme"
   Example Page: "example"
 
 ################
