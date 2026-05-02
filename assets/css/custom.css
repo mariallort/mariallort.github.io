@@ -6,8 +6,10 @@ h1, h2, h3, .intro-title {
 }
 
 /* Body text using sans-serif */
-body, p, li {
+body, p, li, .post-preview, .post-body {
   font-family: 'Inter', sans-serif;
+  font-size: 1.05rem;
+  line-height: 1.7;
 }
 
 /* More space between posts */
