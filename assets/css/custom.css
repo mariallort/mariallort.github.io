@@ -1,17 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@400;500&display=swap');
 
-/* Headings text using Serif */
-h1, h2, h3, .intro-title {
-  font-family: 'Playfair Display', serif;
+* {
+  font-family: 'Inter', sans-serif;
 }
 
-/* Body text using sans-serif */
-body, p, li, .post-preview, .post-body, 
-.intro-header + div, section, article,
-div.container {
-  font-family: 'Inter', sans-serif !important;
-  font-size: 1.05rem;
-  line-height: 1.7;
+h1, h2, h3 {
+  font-family: 'Playfair Display', serif !important;
 }
 
 /* More space between posts */
