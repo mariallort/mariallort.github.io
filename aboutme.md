@@ -4,14 +4,16 @@ title: About me
 subtitle: A brief personal description
 ---
 
-My name is Ferran Aran, I am from Lleida and I love learning new skills. Have a look at my background below!
+Hello! My name is Maria Llort, I am from a little town in Maresme and I love learning new skills. Have a look at my background below!
 
 ### Education
 
-- Computer science degree at UdL (2019 - 2022)
-- Master in computer science at UdL (2022 - 2024)
-- PhD in RL applied to energy (2024 - present)
+- Bachelors degree in Biomedical Engineering at UPC (2019 - 2023)
+- Erasmus stay at Politecnico di Milano (2022 - 2023)
+- Master in Health Data Science at URV (2025 - present)
+  
 
 ### Experience
-- Research assistant on MILP at UdL (2022 - 2023)
-- R&D as Data Scientist at GFT Technologies (2023 - present)
+
+- Research and Development engineer at Quantium Medical SL (2023 - 2024)
+- Software Engineer in Test at Roche (2024 - present)
