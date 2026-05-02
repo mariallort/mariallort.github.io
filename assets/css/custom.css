@@ -6,8 +6,10 @@ h1, h2, h3, .intro-title {
 }
 
 /* Body text using sans-serif */
-body, p, li, .post-preview, .post-body {
-  font-family: 'Inter', sans-serif;
+body, p, li, .post-preview, .post-body, 
+.intro-header + div, section, article,
+div.container {
+  font-family: 'Inter', sans-serif !important;
   font-size: 1.05rem;
   line-height: 1.7;
 }
@@ -22,7 +24,7 @@ body, p, li, .post-preview, .post-body {
   color: #2c3e50;
 }
 
-.intro-divider {
-  border-color: #e74c3c;
-  border-width: 3px;
+.intro-header hr {
+  border-color: #e74c3c !important;
+  border-top: 3px solid #e74c3c !important;
 }
