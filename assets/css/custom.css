@@ -25,3 +25,8 @@ body, p, li {
   display: inline;
   background: linear-gradient(180deg, transparent 55%, #e74c3c 55%);
 }
+
+.intro-divider {
+  border-color: #e74c3c;
+  border-width: 3px;
+}
