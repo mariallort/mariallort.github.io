@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@400;500&display=swap');
+
+/* Headings text using Serif */
+h1, h2, h3, .intro-title {
+  font-family: 'Playfair Display', serif;
+}
+
+/* Body text using sans-serif */
+body, p, li {
+  font-family: 'Inter', sans-serif;
+}
