@@ -96,7 +96,7 @@ footer-text-col: "#777777"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
 
-# Add site css to modify the typography
+# Add site css to modify the typography and other params
 site-css:
   - "/assets/css/custom.css"
   
