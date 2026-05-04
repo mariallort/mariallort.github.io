@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@400;500&display=swap');
 
 * {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Lora', sans-serif;
 }
 
 h1, h2, h3 {
@@ -11,19 +11,11 @@ h1, h2, h3 {
 
 /* More space between posts */
 .post-preview {
-  padding: 20px 0;
+  padding: 10px 0;
 }
 
 /* Modify the separator color */
 .intro-header hr, hr.small {
   border-color: #e74c3c !important;
   border-top: 3px solid #e74c3c !important;
-}
-
-/* Modify text when image in header */
-.intro-header.big-img .post-heading h1,
-.intro-header.big-img .post-heading h2,
-.intro-header.big-img .post-heading span {
-  color: #ffffff !important;
-  text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.8) !important;
 }
