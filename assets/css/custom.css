@@ -9,11 +9,6 @@ h1, h2, h3 {
   font-family: 'Playfair Display', serif !important;
 }
 
-/* More space between posts */
-.post-preview {
-  padding: 10px 0;
-}
-
 /* Modify the separator color */
 .intro-header hr, hr.small {
   border-color: #e74c3c !important;
