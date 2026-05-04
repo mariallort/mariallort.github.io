@@ -17,3 +17,7 @@ h1, h2, h3 {
   border-color: #e74c3c !important;
   border-top: 3px solid #e74c3c !important;
 }
+
+.intro-header.has-img .big-img {
+  filter: brightness(0.6);
+}
