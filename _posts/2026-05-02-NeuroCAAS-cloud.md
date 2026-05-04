@@ -27,12 +27,12 @@ NeuroCAAS is a fully automated, open-source cloud platform that allows neuroscie
 
 | Feature | Traditional Lab Setup | NeuroCAAS (Cloud) |
 |---|---|---|
-| _Hardware_ | Fixed, limited local cluster | On-demand, elastic scaling |
-| _Setup time_ | Days to weeks | Minutes |
-| _Reproducibility_ | Hard — depends on local config | Guaranteed, identical environments |
-| _Cost_ | High upfront investment | Pay per use |
-| _Accessibility_ | Expert users only | Any researcher |
-| _Collaboration_ | Difficult across institutions | Built-in data sharing |
+| **Hardware** | Fixed, limited local cluster | On-demand, elastic scaling |
+| **Setup time** | Days to weeks | Minutes |
+| **Reproducibility** | Hard — depends on local config | Guaranteed, identical environments |
+| **Cost** | High upfront investment | Pay per use |
+| **Accessibility** | Expert users only | Any researcher |
+| **Collaboration** | Difficult across institutions | Built-in data sharing |
 
 
 ## How Does It Work?
