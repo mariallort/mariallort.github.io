@@ -19,5 +19,5 @@ h1, h2, h3 {
 }
 
 .intro-header.has-img .big-img {
-  filter: brightness(0.6);
+  filter: brightness(0.6) !important;
 }
