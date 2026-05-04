@@ -14,7 +14,8 @@ h1, h2, h3 {
   padding: 20px 0;
 }
 
-.intro-header hr {
+/* Modify the separator color */
+.intro-header hr, hr.small {
   border-color: #e74c3c !important;
   border-top: 3px solid #e74c3c !important;
 }
